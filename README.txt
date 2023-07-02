@@ -1,1 +1,1 @@
-hyc hyc hyc
+My first GIT repository commands practised 
